@@ -82,7 +82,7 @@ please [see the Wiki](https://github.com/TerrorByteTW/Honeypot/wiki/Developing-p
 
 Big thanks to dejvokep for
 their [BoostedYAML](https://www.spigotmc.org/threads/%E2%9A%A1-boostedyaml-standalone-yaml-library-with-updater-and-comment-support-much-more-5min-setup-%E2%9A%A1.545585/)
-library, and the Spigot community for all their tips and tricks!
+library, SandwichBtw for helping to migrate to gradle and the Spigot community for all their tips and tricks!
 
 ## Note 📒
 
